@@ -3,5 +3,20 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Avram Stern": {
+    "firstName": "Avram",
+    "lastName": "Stern",
+    "phoneNumber": "88888888"
+  },
+  "Tania Esquivel": {
+    "firstName": "Tania",
+    "lastName": "Esquivel",
+    "phoneNumber": "77777777"
+  },
+  "Jimmy Hendrix": {
+    "firstName": "Jimmy",
+    "lastName": "Hendrix",
+    "phoneNumber": "12345678"
   }
 }
